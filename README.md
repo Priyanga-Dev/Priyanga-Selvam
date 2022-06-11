@@ -27,11 +27,10 @@ const techStack = {
 
 ---
 
-
 <!--START_SECTION:waka-->
 
 📊 **This week I spent my time on**
-
+```
 🔥 Editors:
 IntelliJ        16 hrs 12 mins      ████████████████████░░   95.71%
 VSCode          2 hrs 32 mins       ██████████████░░░░░░░░   55.81%
